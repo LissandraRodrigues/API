@@ -99,7 +99,7 @@ Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.co
 
 ```bash
 # Clone este projeto.
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/api
+$ git clone https://github.com/LissandraRodrigues/API
 
 # O acesse.
 $ cd api
@@ -117,7 +117,7 @@ $ yarn start
 
 Utilize o <a href='https://insomnia.rest/'>Insomnia</a>, pois ele é um cliente HTTP que permite fazermos requisições para API sem precisar utilizar um browser.
 
-<img align = "center" src = "insomnia.jpg" />
+<img align = "center" src = "insomnia.png" />
 
 
 ## :books: Onde aprender mais ##
