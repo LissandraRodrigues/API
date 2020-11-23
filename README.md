@@ -8,6 +8,7 @@
   <a href="#rocket-tecnologias"> Tecnologias </a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requisitos"> Requisitos </a> &#xa0; | &#xa0;
   <a href="#checkered_flag-iniciando"> Iniciando </a> &#xa0; | &#xa0;
+  <a href="#bulb-dica"> Dica </a> &#xa0; | &#xa0;
   <a href="#books-onde-aprender-mais"> Onde aprender mais </a> &#xa0; | &#xa0;
   <a href="#facepunch-créditos"> Créditos </a> &#xa0; | &#xa0;
   <a href="https://www.linkedin.com/in/luiza-lissandra/" target="_blank"> Desenvolvedora </a>
