@@ -143,7 +143,7 @@ Os dados usados na aplicação com o arquivo JSON foram retirados <a href='https
 
 ## :unlock: Licença ##
 
-Este projeto está sobre a licença do MIT. Para saber mais, veja em [LICENSE](LICENSE.md).
+Este projeto está sob a licença do MIT. Para saber mais, veja em [LICENSE](LICENSE).
 
 <hr/>
 
