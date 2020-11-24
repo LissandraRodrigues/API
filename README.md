@@ -6,7 +6,9 @@
    <img src="https://img.shields.io/badge/progress-100%25-brightgreen.svg" alt="PRs Welcome">
    <img src = "https://img.shields.io/github/issues/LissandraRodrigues/API" />
    <img src = "https://img.shields.io/github/forks/LissandraRodrigues/API" />
-   <img src = "https://img.shields.io/github/stars/LissandraRodrigues/API" />	
+   <img src = "https://img.shields.io/github/stars/LissandraRodrigues/API" />
+   <img src = "https://camo.githubusercontent.com/ceb264b271ea36fdd2755c5ce616adcd4e5ea503de3a8b5aa0770a71c89cfabd/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6c756b656d6f72616c65732f726f636b657473686f65732d72656163742d6e61746976652e737667" />
+	
 </p>	
 
 <p align="center">
@@ -18,6 +20,7 @@
   <a href="#bulb-dica"> Dica </a> &#xa0; | &#xa0;
   <a href="#books-onde-aprender-mais"> Onde aprender mais </a> &#xa0; | &#xa0;
   <a href="#facepunch-créditos"> Créditos </a> &#xa0; | &#xa0;
+  <a href="#unlock-licença"> Licença </a> &#xa0; | &#xa0;
   <a href="https://www.linkedin.com/in/luiza-lissandra/" target="_blank"> Desenvolvedora </a>
 </p>
 
@@ -137,6 +140,10 @@ Utilize o <a href='https://insomnia.rest/'>Insomnia</a>, pois ele é um cliente 
 ## :facepunch: Créditos ##
 
 Os dados usados na aplicação com o arquivo JSON foram retirados <a href='https://jsonplaceholder.typicode.com/users'> desse site. </a>
+
+## :unlock: Licença ##
+
+Este projeto está sobre a licença do MIT. Para saber mais, veja em [LICENSE](LICENSE.md).
 
 <hr/>
 
