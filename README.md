@@ -3,6 +3,12 @@
 <h1 align="center"> API </h1>
 
 <p align="center">
+   <img src = "https://img.shields.io/github/issues/LissandraRodrigues/API" />
+   <img src = "https://img.shields.io/github/forks/LissandraRodrigues/API" />
+   <img src = "https://img.shields.io/github/stars/LissandraRodrigues/API" />	
+</p>	
+
+<p align="center">
   <a href="#dart-sobre"> Sobre </a> &#xa0; | &#xa0; 
   <a href="#muscle-o-que-aprendi"> O que aprendi </a> &#xa0; | &#xa0;
   <a href="#rocket-tecnologias"> Tecnologias </a> &#xa0; | &#xa0;
