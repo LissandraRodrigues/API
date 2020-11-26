@@ -120,8 +120,6 @@ $ yarn install
 
 # Execute o projeto.
 $ yarn dev
-
-# O servidor irá inicializar em <http://localhost:3000>
 ```
 
 ## :bulb: Dica ##
