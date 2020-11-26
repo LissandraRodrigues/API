@@ -119,7 +119,7 @@ $ cd api
 $ yarn install
 
 # Execute o projeto.
-$ yarn start
+$ yarn dev
 
 # O servidor irá inicializar em <http://localhost:3000>
 ```
