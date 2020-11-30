@@ -131,8 +131,9 @@ Utilize o <a href='https://insomnia.rest/'>Insomnia</a>, pois ele é um cliente 
 
 ## :books: Onde aprender mais ##
 
+- <a href='https://www.notion.so/Semana-01-cc992313d1b449538026b22dcb5dde1e'> Meu artigo no Notion; </a> 
 - <a href='https://www.youtube.com/watch?v=ghTrp1x_1As'> O que é API? REST e RESTful? (Youtube - Rocketseat); </a>
-- <a href='https://becode.com.br/o-que-e-api-rest-e-restful/'> O que é API? REST e RESTful? Conheça as definições e diferenças </a>
+- <a href='https://becode.com.br/o-que-e-api-rest-e-restful/'> O que é API? REST e RESTful? Conheça as definições e diferenças. </a>
 
 
 ## :facepunch: Créditos ##
