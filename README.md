@@ -128,13 +128,16 @@ Utilize o <a href='https://insomnia.rest/'>Insomnia</a>, pois ele é um cliente 
 
 <img align = "center" src = "insomnia.png" />
 
+Use a configuração que eu utilizei através do botão abaixo:
+
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=API&uri=https%3A%2F%2Fraw.githubusercontent.com%2FLissandraRodrigues%2FAPI%2Fmain%2Finsomnia-file.json)
 
 ## :books: Onde aprender mais ##
 
 - <a href='https://www.notion.so/Back-end-com-Node-js-2fbb8dc716f84b229b11c0828136d411'> Meu artigo no Notion; </a> 
 - <a href='https://www.youtube.com/watch?v=ghTrp1x_1As'> O que é API? REST e RESTful? (Youtube - Rocketseat); </a>
-- <a href='https://becode.com.br/o-que-e-api-rest-e-restful/'> O que é API? REST e RESTful? Conheça as definições e diferenças. </a>
-
+- <a href='https://becode.com.br/o-que-e-api-rest-e-restful/'> O que é API? REST e RESTful? Conheça as definições e diferenças; </a>
+- <a href='https://www.youtube.com/watch?v=3tB0uDliS6Y'> Masterizando o Insomnia. </a>
 
 ## :facepunch: Créditos ##
 
