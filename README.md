@@ -28,7 +28,7 @@
 
 ## :dart: Sobre ##
 
-Este projeto foi feito para aprender e praticar API, REST e RESTful.
+Este projeto foi desenvolvido para aprender e praticar os conceitos de API, REST e RESTful.
 
 ## :muscle: O que aprendi ##
 
@@ -52,7 +52,7 @@ Veja o exemplo abaixo:
 
 	"nome": "Luiza",
 
-	"idade": 20,
+	"idade": 21,
 
 	"interesses": ["programação", "design"]
 
@@ -137,6 +137,7 @@ Use a configuração que eu utilizei através do botão abaixo:
 - <a href='https://www.notion.so/Back-end-com-Node-js-2fbb8dc716f84b229b11c0828136d411'> Meu artigo no Notion; </a> 
 - <a href='https://www.youtube.com/watch?v=ghTrp1x_1As'> O que é API? REST e RESTful? (Youtube - Rocketseat); </a>
 - <a href='https://becode.com.br/o-que-e-api-rest-e-restful/'> O que é API? REST e RESTful? Conheça as definições e diferenças; </a>
+- <a href='https://blog.rocketseat.com.br/tipos-de-parametros-nas-requisicoes-rest/'> Tipos de Parâmetros nas requisições REST; </a> 
 - <a href='https://www.youtube.com/watch?v=3tB0uDliS6Y'> Masterizando o Insomnia. </a>
 
 ## :facepunch: Créditos ##
