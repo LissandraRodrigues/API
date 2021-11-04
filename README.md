@@ -113,7 +113,7 @@ Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.co
 $ git clone https://github.com/LissandraRodrigues/API
 
 # O acesse.
-$ cd api
+$ cd API
 
 # Instale as dependências.
 $ yarn install
